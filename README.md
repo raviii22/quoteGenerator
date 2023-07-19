@@ -1,2 +1,2 @@
 # quoteGenerator
-basic html,css,js project based on Dom manupulation
+basic html,css,js project based on Dom manupulation technique
