@@ -4,53 +4,57 @@ let person = document.querySelector(".person");
 
 const qoutes = [{
     qoute:`sometime people don't deverve second chance, be carefull`,
-    person: `sidharthhhhh` 
+    person: `Ravi` 
 },
 {
-    qoute: ` The cheapest things through which the people play is our feelings and the best part is we allow them to play with it `,
-    person: `sidharthhhhh`
+    qoute: ` Forgive your enemies, but never forget their names. `,
+    person: `John F. Kennedy`
 },
 {
-    qoute: ` The sky of guilt is too havey, na garajta hai, na barasta hai...bas dil ma boojh bann karr beeth jata haii `,
-    person : `sidharthhhhh`
+    qoute: ` Names are the sweetest and most important sound in any language. `,
+    person : ` Dale Carnegie`
 },
 {
     qoute: `When u start creating something then coding become really interesting`,
     person:`sidharthhhhhh`
 },
 {
-    qoute: `Some wounds are not to be healed and should be marked as a permanent sign of what we loss & what cost we pay for it.🙂`,
-    person:`sidharthhhhh`
+    qoute: `Nothing is impossible. The word itself says 'I'm possible!`,
+    person:`Audrey Hepburn`
 },
 {
     qoute: `"If u wanna fly like a eagle then leave the support of butterflies"`,
     person:`Khan sir`
 },
 {
-    qoute: `Temides of society are more dangerous than the enemy outside the country.`,
-    person:`sidharthhhhh`
+    qoute: `There is nothing impossible to they who will try.`,
+    person:`Alexander the Great`
 },
 {
     qoute: `My new life is a cost of Old one.`,
     person:`old friend`
 },
 {
-    qoute: `Ignore me as much as u can....hope it will erase my feelings for you`,
-    person:`sidharthhhh`
+    qoute: `Success is not final, failure is not fatal: it is the courage to continue that counts.`,
+    person:` Winston Churchill`
 },
 {
-    qoute: `people who never understand your silence will never understand your words`,
-    person:`unknown`
+    qoute: `Do not allow people to dim your shine because they are blinded. Tell them to put some sunglasses on.`,
+    person:` Lady Gaga`
 },
 {
-    qoute: `We don't need to engage in relationship to love someone`,
-    person:`sidharthhhh`
+    qoute: `Belief creates the actual fact.`,
+    person:` William James`
 },
 {
-    qoute: `We all need a atleast one motivation which make us remember every day about the Goals of our life even in worse day of our life.
+    qoute: `In a gentle way, you can shake the world
     `,
-    person:`sidharthhhhh`
+    person:`Mahatma Gandhi`
 },
+{
+    qoute: 'When you have a dream, you have got to grab it and never let go.',
+    person: 'Carol Burnett'
+}
 ];
 
 btn.addEventListener('click', function(){
